@@ -5,7 +5,7 @@ author: "Christoph Scheuch, Stefan Voigt, Patrick Weiss"
 date: "September 14, 2022"
 output:
   xaringan::moon_reader:
-    css: [useR, useR-fonts]
+    css: [useR, useR-fonts, "standard.css"]
     lib_dir: libs
     yolo: false
     nature:
@@ -114,7 +114,7 @@ A long, long time ago. Tidy Finance started out with three PhD students.
 
 - ... a **tidy** approach to finance.
 
-- ... adding **new chapters** and **revising existing chapters**.
+- ... continuously maintained and expanded.
 ]
 
 .pull-right[
@@ -272,12 +272,12 @@ class: chapter-slide
 
 .pull-right[
 ### Financial data
-- **Tidy** data
 - Fama-French data 
 - Macroeconomic data
 - **WRDS** via `{RPostgres}`  
 - **CRSP**, **Compustat**
 - Database with `{RSQLite}`
+- Refinitiv, Bloomberg, etc.
 ]
 
 ---
@@ -316,8 +316,10 @@ class: chapter-slide
 ]
 
 .pull-right[
-### And more
- - Do you have further **suggestions**?
+### Inference 
+ - Fixed effect regressions
+ - Clustured standard errors
+ - Difference in differences
 ]
 
 
@@ -376,7 +378,7 @@ class: chapter-slide
 
 .pull-right[
 
-<middle><center><img src="images/signed_contract.jpg" alt="A partial view of the first page fo a contract with a pen." width="520" height="300"/></center></middle>
+<middle><center><img src="images/signed_contract.jpg" alt="A partial view of the first page of a contract with a pen." width="520" height="300"/></center></middle>
 
 ]
 
