@@ -1,4 +1,4 @@
-# Presentation @ [ICDSF 2022](https://dsf.academy/conference/) [<img class="logo" src="https://www.tidy-finance.org/cover.jpg" align="right" style="width:250px;" />](https://www.tidy-finance.org)
+# Presentation @ [ICDSF 2022](https://dsf.academy/conference/) [<img class="logo" src="https://www.tidy-finance.org/cover_homepage.jpg" align="right" style="width:250px;" />](https://www.tidy-finance.org)
 
 Talk on **Tidy Finance with R**:
 
